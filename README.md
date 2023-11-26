@@ -1,0 +1,2 @@
+# cp
+fine tuning sdxl
